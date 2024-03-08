@@ -4,7 +4,7 @@
 <italic>HTML, CSS e JavaScript</italic>
 
 <p>
-Esse projeto foi criado utilizando HTML CSS e JavaScript, esse projeto "World Cup" foi feito junto ao evento realizado pela <span>RockeatSeat</span> utilizando uma forma     basíca de criar um calendario responsivo 
+Esse projeto foi criado utilizando HTML CSS e JavaScript, esse projeto "World Cup" foi feito junto ao evento realizado pela <span>RockeatSeat NLW</span> utilizando uma forma     basíca de criar um calendario responsivo 
 </p>
 
 <a href="https://calendario-world-cup.vercel.app/">Veja o projeto!</a>
